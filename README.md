@@ -10,9 +10,6 @@ Tech Stacks:
 2.PowerBi Desktop
 3.Excel
 4.DAX language
-5.DAX Studio (for report optimization)
-6.Project charter file
-
 PowerBI Techniques Learned:
 
 1.Asking the right questions before starting a project
