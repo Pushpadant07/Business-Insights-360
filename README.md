@@ -6,10 +6,10 @@ AtliQ Hardware, a rapidly growing company, has decided to use PowerBi for data a
 
 Tech Stacks:
 
-SQL
-PowerBi Desktop
-Excel
-DAX language
+1.SQL
+2.PowerBi Desktop
+3.Excel
+4.DAX language
 DAX Studio (for report optimization)
 Project charter file
 PowerBI Techniques Learned:
