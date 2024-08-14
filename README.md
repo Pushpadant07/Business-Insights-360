@@ -42,28 +42,38 @@ This project aims to clarify the purpose and goals of the data analytics initiat
 **Overall Report**
 
 Home Page:
+
 ![Screenshot 2024-08-14 160147](https://github.com/user-attachments/assets/a3c22fad-41c3-4d9f-bc26-793f8046993b)
 
 Finance View:
+
 ![Screenshot 2024-08-14 160222](https://github.com/user-attachments/assets/51988ffb-d455-4fe6-af8d-033758794876)
 
 Sales View:
+
 ![Screenshot 2024-08-14 160443](https://github.com/user-attachments/assets/de01f064-a5e6-477b-9083-8895410a3c9c)
 
 Marketing View:
+
 ![Screenshot 2024-08-14 160516](https://github.com/user-attachments/assets/c4f856f9-231a-48a1-aa04-fbd5b0e60fd1)
 
 Supply Chain View:
+
 ![Screenshot 2024-08-14 160534](https://github.com/user-attachments/assets/0d6355ee-cf75-49f5-9705-719ffecd6ac5)
 
 Executive View:
+
 ![Screenshot 2024-08-14 160549](https://github.com/user-attachments/assets/c2380fea-eefa-4be3-b28c-15bf7e922416)
 
 Information Page:
+
 ![Screenshot 2024-08-14 160608](https://github.com/user-attachments/assets/5201ac43-9bf7-42fe-a197-39605adf84d7)
 
 Support Page:
+
 ![Screenshot 2024-08-14 160626](https://github.com/user-attachments/assets/7b3a8e5e-8360-4e67-9a32-ce9acd5123b8)
 
 
+I would greatly appreciate your thoughts and feedback.
+Thank You.
 
