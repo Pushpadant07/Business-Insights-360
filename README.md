@@ -4,6 +4,8 @@ AtliQ Hardware, a rapidly growing company, has decided to use PowerBi for data a
 
 I'm Pushpadant and I used the following tools and techniques:
 
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTU2MDIwZGItOTBiZi00NGM2LWI4ZTItMzc0ZWE1NzNiOWRlIiwidCI6IjBiYTEzZTFjLTU1ODMtNGRhZi1hYzk2LTQ2NzYwNDBlM2NiMSJ9)
+
 **Tech Stacks:**
 
 1. SQL
