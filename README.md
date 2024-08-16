@@ -13,7 +13,6 @@ I'm Pushpadant and I used the following tools and techniques:
 3. Excel
 4. DAX language
 5. DAX Studio (for report optimization)
-6. Project charter file
 
 **PowerBI Techniques Learned:**
 
