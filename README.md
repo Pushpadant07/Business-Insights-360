@@ -50,7 +50,7 @@ Finance View:
 
 Sales View:
 
-![Screenshot 2024-08-14 160443](https://github.com/user-attachments/assets/de01f064-a5e6-477b-9083-8895410a3c9c)
+![Screenshot 2024-09-02 161924](https://github.com/user-attachments/assets/df9dafba-bd77-444a-81cc-dc0b12698e48)
 
 Marketing View:
 
@@ -58,7 +58,7 @@ Marketing View:
 
 Supply Chain View:
 
-![Screenshot 2024-08-14 160534](https://github.com/user-attachments/assets/0d6355ee-cf75-49f5-9705-719ffecd6ac5)
+![Screenshot 2024-09-02 161902](https://github.com/user-attachments/assets/223a32f4-a260-46ab-b7e2-b45de0185a8a)
 
 Executive View:
 
